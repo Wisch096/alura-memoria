@@ -4,7 +4,6 @@ namespace UsuarioLib;
 
 public class Usuario
 {
-
     public Usuario(string nome, string email, List<string> telefone)
     {
         Nome = nome;
@@ -20,9 +19,7 @@ public class Usuario
     public void PadronizaTelefones()
     {
         Telefones = Telefones.Select(telefone =>
-            telefone.Length == 8 ?
-            telefone = "9" + telefone :
-            telefone
+            telefone.Length == 8 ? telefone = "9" + telefone : telefone
         ).ToList();
     }
 

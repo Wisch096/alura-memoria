@@ -12,12 +12,6 @@ Usuario usuario2 =
         "luis@email.com",
         new List<string>() { "87654321" });
 
-
-//12345678
 usuario.ExibeTelefones();
-
-//efetuar a padronização
 usuario.PadronizaTelefones();
-
-//912345678
 usuario.ExibeTelefones();
