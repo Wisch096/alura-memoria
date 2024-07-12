@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6hH6dhMupjIgFsW885gvIjBs9yJGgNafKqRjYXn7B4WPzHJPUkp7p5v3bqyebgtFoHwpnqgTOHkGiIHJ06hu4w==",
+  "dgSpecHash": "OP5Ay50Rz3NwnhsdEGSTCXb6/5R1YbO4y5NnLw5EFYaB1Dkrmfjz4g3n8nn85dOO7NZDrEy6TaYCxJ52p5wHqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\UsuarioLib\\UsuarioLib\\UsuarioLib.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Repos\\alura-memoria\\UsuarioLib\\UsuarioLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wisch\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\wisch\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\wisch\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\wisch\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
